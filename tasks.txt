@@ -1,1 +1,3 @@
-# Task Queue
+[HIGH] Implement input validation for task creation
+[MED]  Add color output to terminal display
+[LOW]  Write section in README about log rotation
